@@ -1,0 +1,7 @@
+*.gemspec
+pkg
+*~
+*.*~
+*.rspec
+*.document
+.sconsign.dblite
