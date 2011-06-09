@@ -5,3 +5,4 @@ pkg
 *.rspec
 *.document
 .sconsign.dblite
+.redcar/
